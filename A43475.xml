@@ -1,0 +1,876 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hewson reduc'd, or, The shoomaker return'd to his trade being a show, wherein is represented the honesty, inoffensiveness, and ingenuity of that profession, when 'tis kept within its own bounds, and goes not beyond the last / written by a true friend to the gentle craft.</title>
+            <author>True friend to the gentle craft.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43475</idno>
+            <idno type="STC">Wing H1647</idno>
+            <idno type="STC">ESTC R19678</idno>
+            <idno type="EEBO-CITATION">12561375</idno>
+            <idno type="OCLC">ocm 12561375</idno>
+            <idno type="VID">63221</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43475)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63221)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 319:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Hewson reduc'd, or, The shoomaker return'd to his trade being a show, wherein is represented the honesty, inoffensiveness, and ingenuity of that profession, when 'tis kept within its own bounds, and goes not beyond the last / written by a true friend to the gentle craft.</title>
+                  <author>True friend to the gentle craft.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Austine Rice ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hewson, John, d. 1662.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63221:1"/>
+            <pb facs="tcp:63221:1"/>
+            <p>Hewſon Reduc'd: OR, THE SHOOMAKER RETURN'D TO HIS TRADE.</p>
+            <p>BEING A SHOW, Wherein is repreſented the HONESTY, IN OF<g ref="char:EOLhyphen"/>FENSIVENESS, and INGENUITY of that PROFESSION, when 'tis kept within its own Bounds, and goes not beyond the Laſt.</p>
+            <p>Written by a true Friend to the gentle <hi>CRAFT.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Auſtine Rice</hi> in St. <hi>Pauls</hi> Church-yard. 166<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="dramatis_personae">
+            <pb facs="tcp:63221:2"/>
+            <list>
+               <head>Actorum nomina.</head>
+               <item>
+                  <hi>PROLOGUS</hi> a Shoomaker.</item>
+               <item>
+                  <hi>EPILOGUS</hi> a Shoomaker.</item>
+               <item>
+                  <hi>Boot,</hi> a Traveller.</item>
+               <item>
+                  <hi>SPUR,</hi> Boot's Men.</item>
+               <item>
+                  <hi>PUMP,</hi> Boot's Men.</item>
+               <item>
+                  <hi>SHOOE,</hi> a Citizen.</item>
+               <item>
+                  <hi>SHOOSTRING,</hi> Boot's Page.</item>
+               <item>
+                  <hi>SLIPPER,</hi> a Chamberlain.</item>
+               <item>
+                  <hi>PROLOGUS,</hi> a Shoomaker bringing in Boots, Shooes, Slippers, and Pumps.</item>
+            </list>
+         </div>
+         <div type="to_the_reader">
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>You muſt underſtand that a Shoomaker is the <hi>Show-maker.</hi> I have been two daies making a pair of Boots, Shooes, Slippers, and Pumps; and they had not been done yet, but that I went through ſtich with Aule. Theſe Boots methinks ſhould fit any man, but thoſe that are too big in the Calf; theſe Shooes will pinch no man, but he that is troubled with Corns: theſe Pumps will fit any man, but thoſe that hold Dancing ſu<g ref="char:EOLhyphen"/>perſtitious; theſe Slippers will pleaſe any man I am ſure, but he that is out at the Heels: however I'le go preſently and put them on; only thus much I'le ſpeak in my own defence.
+<q>
+                  <l>Muſe not we ſpeak of ſuch like things as theſe,</l>
+                  <l>We ſhallow Wits wade not above the knees:</l>
+                  <l>Theſe lowly things I hope will not diſtaſt;</l>
+                  <l>Men of our Trade go not beyond the Laſt.</l>
+               </q>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="3" facs="tcp:63221:2"/>
+            <sp>
+               <stage>Enter P<g ref="char:V">Ʋ</g>MP.</stage>
+               <p>HE that hath ſerved in the Office of a Footman ſo long as I have done, though ne're ſo light at firſt, (ere the year go about) ſhall be a heavy man. Sure I was born to run as long as I breath: but if the way had not been ſo dirty, I would have ſhewed my Maſter a fair pair of Heels; but if he ſend me again to run ſuch a way, I will run quite away. I have come to day further, than I hope I ſhall go to mor<g ref="char:EOLhyphen"/>row: for Mr. <hi>Boot</hi> will be ſure to have his Liquor before he goes out of Town. My Maſter hath ſent me before to provide his Inne, but I'le meet with him anon for't; I'le go to the Sign of the Leg, there is my old friend <hi>Slipper:</hi> The ſign of the Leg is either in <hi>Shoomaker Row,</hi> or in <hi>Hoſier Lane.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pump.</speaker>
+               <p>
+                  <hi>Shoomaker Row,</hi> or in <hi>Hoſier Lane?</hi> I ſhall know by this it is a Leg in Print, and ſee by good luck I have ſtumbled of the Leg; firſt in ſtep: What, ſo hoe, Chamberlain?</p>
+            </sp>
+            <sp>
+               <speaker>Slip.</speaker>
+               <p>Anon, anon, Sir
+<stage>(intus.)</stage>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pump.</speaker>
+               <p>It is the trick of theſe Chamberlains never to do any thing at the firſt word: What, Chamberlain, Come away.</p>
+            </sp>
+            <sp>
+               <speaker>Slip.</speaker>
+               <p>Anon, anon, Sir; What, my old Companion <hi>pump,</hi> with whom I dwelt, ſo long? Let <hi>Slip.</hi> embrace thee.</p>
+            </sp>
+            <sp>
+               <speaker>Pump.</speaker>
+               <p>I am glad old <hi>Slip.</hi> to ſee thy heels at liberty, but I'le tell thee what, my Maſter <hi>Boot</hi> is at the next Town by this time.</p>
+            </sp>
+            <sp>
+               <speaker>Slip.</speaker>
+               <p>He ſhall be welcome; in faith he is a good Gueſt, he'l come off roundly, and therefore <hi>Slip.</hi> will be alwaies ready for him.</p>
+            </sp>
+            <sp>
+               <speaker>Pump.</speaker>
+               <p>Come, let's ſee a Chamber preſently.</p>
+            </sp>
+            <sp>
+               <speaker>Slip.</speaker>
+               <p>I, preſently; I know Mr. <hi>Boot</hi> is a neat fellow, and therefore he ſhall have a very neat Chamber.
+<stage>Exit Slip.</stage>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pump.</speaker>
+               <p>Make haſt again: I never felt my ſelf ſo weary in all my life; I perceive now poor <hi>Pump,</hi> thou art paſt the beſt, ſuch another Journey as this will quite wear thee out.
+<stage>Enter Slip.</stage>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Slip.</speaker>
+               <p>I know <hi>Pump</hi> thou art dry, come follow me into the Room, and there <hi>Pump</hi> I'le give thee a ſlaſh.</p>
+            </sp>
+            <sp>
+               <speaker>Pump.</speaker>
+               <p>Do thy worſt: <hi>Pump</hi> will never refuſe good Liquor.</p>
+            </sp>
+            <sp>
+               <speaker>Slip.</speaker>
+               <p>I think our Trades are both alike one the other, for Chamberlains and Footmen get their living by running up and down.</p>
+            </sp>
+            <sp>
+               <speaker>Pump.</speaker>
+               <p>Nay, ſoft, the Footman hath the better, for he may go before his Maſter.</p>
+            </sp>
+            <sp>
+               <speaker>Slip.</speaker>
+               <p>Why, are not Chamberlains men of great calling? every one that hath to do with them, ſhall finde them men of good reckoning.</p>
+            </sp>
+            <sp>
+               <speaker>Pump.</speaker>
+               <p>Faith <hi>Slip.</hi> there you go o're me, and beſides this, Footmen are very provident, for be their Maſter ne're ſo wiſe, they muſt riſe betimes if they will over reach them.</p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:63221:3"/>
+               <speaker>Slip.</speaker>
+               <p>Faith Chamberlains are as cunning, for they have alwaies a trick to deceive their Maſters, for if they be above, they will under-mine them, if below, they will be ſure to come over them.</p>
+            </sp>
+            <sp>
+               <speaker>Pump.</speaker>
+               <p>Well, <hi>Slipper, P.</hi> will not fall out with thee; we will drown our quar<g ref="char:EOLhyphen"/>rels in this Glaſs of drink.</p>
+            </sp>
+            <sp>
+               <speaker>Slip.</speaker>
+               <p>What? Mother <hi>Geers</hi> Round? one to another?</p>
+            </sp>
+            <stage>Enter <hi>Boot</hi> and <hi>Spur.</hi>
+            </stage>
+            <sp>
+               <speaker>Boot.</speaker>
+               <p>Come <hi>Spur,</hi> where art thou?</p>
+            </sp>
+            <sp>
+               <speaker>Spur.</speaker>
+               <p>Hard at your heels, Sir.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Faith but for thee I ſhould not have got to my Journeys end to night.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Faith Maſter we were fain to prick on hard: <hi>Spur</hi> did his beſt to ſet you forward.</p>
+            </sp>
+            <sp>
+               <speaker>Bo.</speaker>
+               <p>Well-ſaid <hi>Spur,</hi> I ſee that thou art all mettle.</p>
+            </sp>
+            <sp>
+               <speaker>Sp.</speaker>
+               <p>Yet as ſoon as you come to your Journeys end, you caſt me off.</p>
+            </sp>
+            <sp>
+               <speaker>Bo.</speaker>
+               <p>But yet thou haſt the wit to ſtick cloſe to me.</p>
+            </sp>
+            <sp>
+               <speaker>Sp.</speaker>
+               <p>I do it for your ſake, for you will never ride without me.</p>
+            </sp>
+            <sp>
+               <speaker>Bo.</speaker>
+               <p>This is one thing, I know thee truſty, for many times thou haſt fought up to the ears in blood for myſake.</p>
+            </sp>
+            <sp>
+               <speaker>Sp.</speaker>
+               <p>Nay, I would have you know my Service on foot too; for unleſs. I at<g ref="char:EOLhyphen"/>tend you, you can walk in no faſhion.</p>
+            </sp>
+            <sp>
+               <speaker>Boot.</speaker>
+               <p>But <hi>Spur,</hi> One thing I like not in thee, thou ſpoileſt all my Horſes, thou art a very ſore Rider.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Why I am as good as Provender to your Horſes, I will ſtick cloſe to his Ribs.</p>
+            </sp>
+            <sp>
+               <speaker>Bo.</speaker>
+               <p>Let it be thy part to ſee my Horſes well curried, while I go call for my Lodging: What, Chamberlain?
+<stage>Exit Spur.</stage>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pump.</speaker>
+               <p>O here is Mr. <hi>Boot,</hi> I know by his creeking Slipper: Now ſhew a ſlippery trick, and ſlip away the Jugg.
+<stage>(Exit Slip.)</stage> And I will pump for an anſwer for my Maſter. O Mr. <hi>Pump</hi> ſtoops as low as your feet to welcome you to the ſign of the Leg.</p>
+            </sp>
+            <sp>
+               <speaker>Boot.</speaker>
+               <p>Methinks you are ſomwhat fine, I doubt ſome body hath trim'd you ſince you came in.</p>
+            </sp>
+            <sp>
+               <speaker>Pump.</speaker>
+               <p>I muſt needs ſay your poor Vaſſal hath been veſ<g ref="char:EOLhyphen"/>ſelling; I have been with <hi>Slipper</hi> and have ſet foot to foot and drunk hard.</p>
+            </sp>
+            <sp>
+               <speaker>Boo.</speaker>
+               <p>Theſe be your old tricks: as long as there is any ſtrong Beer to be had, <hi>Pump</hi> will drink no water. But what have you provided for my Supper?</p>
+            </sp>
+            <sp>
+               <speaker>Pump.</speaker>
+               <p>Faith I have clean forgotten, I ſpoke for ſomthing, but I know not what; Call up the Chamberlain, he knows more of my minde.</p>
+            </sp>
+            <sp>
+               <speaker>Boot.</speaker>
+               <p>Juſt ſuch a trick you ſerved me at <hi>Fluſhing</hi> when you were drunk.</p>
+            </sp>
+            <sp>
+               <speaker>Pump.</speaker>
+               <p>Maſter, if you will believe me, I was as ſober as I am now.</p>
+            </sp>
+            <sp>
+               <speaker>Boo.</speaker>
+               <p>'Tis well you can be drunk and ſtand in't too. What, Chamberlain?
+<stage>Enter Slip.</stage>
+               </p>
+               <p>Anon, Anon, Sir, What's your Worſhips pleaſure.</p>
+            </sp>
+            <sp>
+               <speaker>Bo.</speaker>
+               <p>What did my man be<g ref="char:EOLhyphen"/>ſpeak for Supper.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Three Juggs of Beer, and half a dram of Tobacco.</p>
+            </sp>
+            <sp>
+               <speaker>Pump.</speaker>
+               <p>St. St.</p>
+            </sp>
+            <sp>
+               <speaker>Sli.</speaker>
+               <p>O, I cry you mercy, I miſtook the Room.</p>
+            </sp>
+            <sp>
+               <speaker>Bo.</speaker>
+               <p>Do you not know what is provided for my Supper.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Not very well, but whatſoever it is, it ſhall be ready for your Worſhip: But you ſhall be ſure of a meſs of Sallet Oyle, and a diſh of freſh Butter.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Very good.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Nay, it ſhall be very good.</p>
+            </sp>
+            <sp>
+               <speaker>Bo.</speaker>
+               <p>In good time.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Nay, you ſhall have it in very good time.</p>
+            </sp>
+            <sp>
+               <speaker>Bo.</speaker>
+               <p>Nay, good Sir, ſtand not ſo much upon your Pantoples, but anſwer me directly to one queſtion; Do
+<pb n="5" facs="tcp:63221:3"/> you not know one Mr. <hi>Shooe?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sp.</speaker>
+               <p>Yes, Sir, there be two of that name, the one a High-German, the other a Low-Countryman.</p>
+            </sp>
+            <sp>
+               <speaker>Bo.</speaker>
+               <p>I mean him that dwels in the Town.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>I know him well, he is a man of very good faſhion, and a conti<g ref="char:EOLhyphen"/>nuall Houſekeeper.</p>
+            </sp>
+            <sp>
+               <speaker>Bo.</speaker>
+               <p>And I hear very good report of him, that Mr. <hi>Shooe</hi> is a very upright man.</p>
+            </sp>
+            <sp>
+               <speaker>Slip.</speaker>
+               <p>And yet for all that he may go awry ſomtimes; and this is his fault, he loves to be greaſed often: But as I take it, heer comes the Gentle<g ref="char:EOLhyphen"/>man.
+<stage>Enter <hi>Shooe</hi> and <hi>String.</hi>
+                  </stage>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Shooe.</speaker>
+               <p>
+                  <hi>String,</hi> Come tye my Shoe.</p>
+            </sp>
+            <sp>
+               <speaker>Pum.</speaker>
+               <p>What little go by the ground is that?</p>
+            </sp>
+            <sp>
+               <speaker>Slip.</speaker>
+               <p>A Hang-by of Mr. <hi>Shooe;</hi> they call him Shooe-tye, a fellow that I am not beholding to: But <hi>Pump,</hi> farewel a while.
+<stage>(Exit Slip.)</stage>
+               </p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>
+                  <hi>Slipper</hi> farewel. <hi>Pump</hi> will have a fling at you anon. <hi>Shooe,</hi> Sirrah, How doth my Coſin <hi>Stocking?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Str.</speaker>
+               <p>Faith, Sir, He was lately a dying, but now they ſay, he is on the mending hand.</p>
+            </sp>
+            <sp>
+               <speaker>Sh.</speaker>
+               <p>Why, what's the matter?</p>
+            </sp>
+            <sp>
+               <speaker>Str.</speaker>
+               <p>They ſay he took a grief, becauſe he ſtretcht himſelf for. Mr. <hi>Leg,</hi> and ſo brake.</p>
+            </sp>
+            <sp>
+               <speaker>Sh.</speaker>
+               <p>Well, if that be all, we'l have the matter taken up: But for my Neighbour <hi>Foot,</hi> what ſayes he?</p>
+            </sp>
+            <sp>
+               <speaker>St.</speaker>
+               <p>Marry <hi>Foot</hi> ſaith, he ſcorneth to be kept in by your Vows, as he is a part of the Body Politick, and a Member of the Commonwealth; he will do his beſt to tread you under foot.</p>
+            </sp>
+            <sp>
+               <speaker>Sh.</speaker>
+               <p>Alas, poor wretch, I took him in, when he might have ſtood and cool'd his Toes: But let him go whither he will, he ſhall never come into my latch again. But is not yonder Mr. <hi>Boot?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Bo.</speaker>
+               <p>Mr. <hi>Shoe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sh.</speaker>
+               <p>Your poor friend: <hi>Shoe</hi> would do Mr. <hi>Boot</hi> any ſervice, One that will ſpend life and limb to do you ſervice: But methinks Mr. <hi>Boot</hi> you look ſomwhat old, for you are full of wrinkles.</p>
+            </sp>
+            <sp>
+               <speaker>Bo.</speaker>
+               <p>Age and Travel will alter a man.</p>
+            </sp>
+            <sp>
+               <speaker>Sho.</speaker>
+               <p>I hope you have been no great Tra<g ref="char:EOLhyphen"/>veller.</p>
+            </sp>
+            <sp>
+               <speaker>Bo.</speaker>
+               <p>as great as any goes upon earth; for travel, <hi>Coriate</hi> could never come neer me.</p>
+            </sp>
+            <sp>
+               <speaker>Sh.</speaker>
+               <p>I think ſo, for <hi>Coriate</hi> went alwaies on foot, You travel on Horſe<g ref="char:EOLhyphen"/>back. But what think you of <hi>Coriate</hi>'s Book of his Travels?</p>
+            </sp>
+            <sp>
+               <speaker>Bo.</speaker>
+               <p>I ſuppoſe he took great pains, and travelled hard for it; but his Crudites I could never digeſt them; he cannot ſo much as paſs by a Walnut Tree, but he muſt have a fling at it: He can as well be hang'd as paſs by a Gibbet, and every pair of Gallows he removes, as if they were <hi>Hercules</hi>'s Pillars: but becauſe he is my fellow-traveller, I'le let him paſs.</p>
+            </sp>
+            <sp>
+               <speaker>Sh.</speaker>
+               <p>But what ſay you to Mr. <hi>Mandevill?</hi> they ſay he went to the Worlds end, and then I am ſure none of you can go be<g ref="char:EOLhyphen"/>yond him.</p>
+            </sp>
+            <sp>
+               <speaker>Bo.</speaker>
+               <p>I think ſo for lying, for he will go to a hair; He loſeth his hair in ſome hot skirmiſh, and then ſayes, he was burnt in going too neer the Sun.</p>
+            </sp>
+            <sp>
+               <speaker>Sh.</speaker>
+               <p>Faith it was a bold excuſe, and yet it was well enough: Put off, let us leave theſe Land-travellers for a company of dry fellows: Now for the Water-men, let us have an Oare in their Bote; What ſay you to <hi>Drake</hi> and <hi>Candiſh?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Boot.</speaker>
+               <p>Faith <hi>Candiſh</hi> made a good Voyage at the firſt, but was clean o're the ears ere he was aware the ſecond time, he had ſo engag'd himſelf, and ſo in the end proved a Caſt-away.</p>
+            </sp>
+            <sp>
+               <speaker>Sh.</speaker>
+               <p>It is an excellent thing for a Marriner to keep himſelf within Compaſs; but how ſped <hi>Drake?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Bo.</speaker>
+               <p>
+                  <hi>Drake</hi> was a wilde fellow, but before he had done, he ſo trounced the <hi>Spaniards,</hi> that he made them quake, quake.</p>
+            </sp>
+            <sp>
+               <speaker>Sh.</speaker>
+               <p>And theſe Sea<g ref="char:EOLhyphen"/>men methinks ſhould ſtand beſt to their Tackling. But what's the reaſon theſe Puritans cannot abide them?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I think it is becauſe they hate the Sea of <hi>Rome.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:63221:4"/>
+               <speaker>Sh.</speaker>
+               <p>Or it is becauſe they uſe the Cardinals Windes.</p>
+            </sp>
+            <sp>
+               <speaker>Bo.</speaker>
+               <p>Or perhaps becauſe they hate the invention of Cards.</p>
+            </sp>
+            <sp>
+               <speaker>Sh.</speaker>
+               <p>Or becauſe they have a Pilot in their Company.</p>
+            </sp>
+            <sp>
+               <speaker>Bo.</speaker>
+               <p>I am partly of their minde; I have gone as far as any of them, but by my good will, <hi>Boot</hi> will never take water. But by this time, Mr. <hi>Shooe</hi> I think your heels do ake with ſtanding, therefore ſit down here, and I will unfold unto you the whole diſcourſe of my Travels in Print.</p>
+            </sp>
+            <sp>
+               <speaker>String.</speaker>
+               <p>Now while my Maſter and Mr. <hi>Boot</hi> are ſet at talk, I'le enter Complement with this finical Gentleman; Sir, your friend <hi>Shoeſtring</hi> had no ſooner got to ſee you, but he muſt needs ſalute you in the way of kindneſs.</p>
+            </sp>
+            <sp>
+               <speaker>Pump.</speaker>
+               <p>Sir, in reciprocal congratulation, I kiſs the very ſhadow of your <hi>Shooe<g ref="char:EOLhyphen"/>ſtring.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Str.</speaker>
+               <p>I pray, Sir, let me crave your name.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Do then.</p>
+            </sp>
+            <sp>
+               <speaker>Str.</speaker>
+               <p>Then, Sir, with your good leave and liking, what's your name.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>My name is <hi>Water Pump,</hi> Sir,</p>
+            </sp>
+            <sp>
+               <speaker>Str.</speaker>
+               <p>Very well: <hi>Water,</hi> I thought your name was <hi>Water,</hi> you look ſo thin on't; ſurely he that made your Trunks was a very good Taylor, he went ſo roundly to work.</p>
+            </sp>
+            <sp>
+               <speaker>Pum.</speaker>
+               <p>Why, Sirrah, I hope, Jack-ſawce, I may wear theſe Nocks in deſpight of your Noſe.</p>
+            </sp>
+            <sp>
+               <speaker>Str.</speaker>
+               <p>Surely you were a fortunate young man, you were lapt in your Mothers Smock, for ſhe hath given you one of her old Blankets.</p>
+            </sp>
+            <sp>
+               <speaker>Pump.</speaker>
+               <p>You harp too much upon one String, <hi>Shootye,</hi> though your Tongue be ne're ſo buſie about my Nocks; I do not think you can pull down my Breeches.</p>
+            </sp>
+            <sp>
+               <speaker>St.</speaker>
+               <p>Shite on your Breeches, I care not a fart for them.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Well I perceive ſhortly, if I ſhould ſtay ne're ſo long, you will never leave wagging: Well, I'le leave you to my fellow <hi>Spur.</hi>
+                  <stage>Exit.</stage>
+               </p>
+            </sp>
+            <stage>
+               <hi>Enter</hi> Spur <hi>with a Cloak-bag.</hi>
+            </stage>
+            <sp>
+               <speaker>Spur.</speaker>
+               <p>Good Oſtler, if ever you mean to curry favour with me, look well to my Horſes, and let them be well littered, or elſe I'le care not a ſtraw for you; do not play the freſh Serving-man with me: pour down their Provender before them, and let them try it out by the Teeth.</p>
+            </sp>
+            <sp>
+               <speaker>Str.</speaker>
+               <p>Mr. <hi>Bo.</hi> is a ſtrange man, he hath a pair of Serving-men look as if they were not fellows; one in his Nocks, and another in his Cloakbag: Pray, Sir, before—give me leave to ſpur you one queſtion.</p>
+            </sp>
+            <sp>
+               <speaker>Sp.</speaker>
+               <p>If you will give me leave to kick you an anſwer.</p>
+            </sp>
+            <sp>
+               <speaker>Str.</speaker>
+               <p>Pray, Sir, what Countryman are you?</p>
+            </sp>
+            <sp>
+               <speaker>Sp.</speaker>
+               <p>
+                  <hi>Northamptonſhire</hi> man, and I was born at <hi>Rowel.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Str.</speaker>
+               <p>I had thought you had been a <hi>German;</hi> you are ſomthing a kin to <hi>Kicker<g ref="char:EOLhyphen"/>man.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sp.</speaker>
+               <p>I perceive you are a notable Slip-ſtring: but, ſirrah, is thy Maſter here?</p>
+            </sp>
+            <sp>
+               <speaker>Str.</speaker>
+               <p>What if he be, <hi>Spur</hi> hath nothing to do with him.</p>
+            </sp>
+            <sp>
+               <speaker>Sp.</speaker>
+               <p>O, He comes in good time, for all my Horſes want ſhoes.</p>
+            </sp>
+            <sp>
+               <speaker>Str.</speaker>
+               <p>do not diſparage my Maſter, for I will not change with you without Boot.</p>
+            </sp>
+            <sp>
+               <speaker>Sp.</speaker>
+               <p>Nor I with you, for all the ſhooes in your Shop.</p>
+            </sp>
+            <sp>
+               <speaker>Str.</speaker>
+               <p>Go to, hold your peace, if <hi>Boot</hi> be ſo luſty, we'l have him ſtrapt.</p>
+            </sp>
+            <sp>
+               <speaker>Sp.</speaker>
+               <p>Boy, hold your prating, if <hi>Shoe</hi> flie out, I'le clowt him my ſelf: What is your Maſter but a Zitizen, and then he is but a Prentice at the moſt; And thy Maſter (ſaith <hi>String</hi>) is but a Traveller, and then he is a Journeyman.</p>
+            </sp>
+            <sp>
+               <speaker>Sp.</speaker>
+               <p>
+                  <hi>Shooe-tye</hi> hold your peace, or I'le hang you up for the ſign of the <hi>Roſe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Str.</speaker>
+               <p>I can tell you the Roſe is the beſt flower in my Ma<g ref="char:EOLhyphen"/>ſters Garden. But I wonder <hi>Spur</hi> why you are ſo ſharp; for all your great Sword, if I once buckle with you, I'le leather your Hide.</p>
+            </sp>
+            <sp>
+               <speaker>Sp.</speaker>
+               <p>I hope my Sword troubleth not you; if you be ſo buſie <hi>Shooe-tye,</hi> take heed,
+<pb n="7" facs="tcp:63221:4"/> this is the great Sword that cut the Gordian knots.</p>
+            </sp>
+            <sp>
+               <speaker>Str.</speaker>
+               <p>I could never tell why ſuch clowniſh Serving-men are ty'd to ſuch great Swords, unleſs it be when they fart they might touch cold iron.</p>
+            </sp>
+            <sp>
+               <speaker>Sp.</speaker>
+               <p>Sirrah, I'le tell you, wit<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the point I'le prick a hole in your coat, and with the Hilt I'le pannel you about the pate.</p>
+            </sp>
+            <sp>
+               <speaker>Str.</speaker>
+               <p>But ſtay, Sirrah, here comes your Maſter to take you off.</p>
+            </sp>
+            <sp>
+               <speaker>Bo.</speaker>
+               <p>Mr. <hi>Shooe,</hi> you and I come both from one houſe, for as Antiquaries ſay, we are lineally deſcended from <hi>Th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng-castle.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sh.</speaker>
+               <p>Nay, there Mr. <hi>Boot</hi> I think you are wide, for I heard ſome ſay, that our Anceſtors were born at <hi>Bulver-hide,</hi> but it is no great matter, it is certain we came both from one ſtock.</p>
+            </sp>
+            <sp>
+               <speaker>Bo.</speaker>
+               <p>But I forgot to tell you one thing as I paſſed by this Town ſide, I had much ado to 'ſcape this Tree: ſo coming along <hi>France<g ref="char:EOLhyphen"/>fa deep,</hi> I fell up to the top in a dirty hole, and was ſo bemired, that I was fain to get an Oſtler to make me clean.</p>
+            </sp>
+            <sp>
+               <speaker>Sh.</speaker>
+               <p>Bee-lady that was a foul miſchance.</p>
+            </sp>
+            <sp>
+               <speaker>Sp.</speaker>
+               <p>Nay, I can tell you <hi>Boot</hi> hath ma<g ref="char:EOLhyphen"/>ny of thoſe Voyages, for he hath gone through thick and thin.</p>
+            </sp>
+            <sp>
+               <speaker>Sh.</speaker>
+               <p>Well, now I ſee plainly before my face that you are a great Traveller, you excel <hi>
+                     <g ref="char:V">Ʋ</g>lyſſes</hi> for all he was ſo long abroad, that when he came home his wife knew him not, no more then his Dog: and <hi>Aeneas</hi> though he was a true <hi>Trojan,</hi> yet may come far behinde you.</p>
+            </sp>
+            <sp>
+               <speaker>Bo.</speaker>
+               <p>As for <hi>
+                     <g ref="char:V">Ʋ</g>lyſſes, Cirees</hi> made a very Hog-rubber of him; and for <hi>Aeneas,</hi> any Ape may do as much as he did.</p>
+            </sp>
+            <sp>
+               <speaker>Sh.</speaker>
+               <p>Good, Sir, may I entreat but one thing, that you would beſtow this Map on me.</p>
+            </sp>
+            <sp>
+               <speaker>Bo.</speaker>
+               <p>Mr. <hi>Shoe,</hi> I would be loath to ſtick with you for any thing, but you muſt pardon me, I ſhould not part with this Map for a world: but I think I have held you too long, therefore to winde up all in a word, after this rare diſcourſe, I will invite you to part of a bad Supper.</p>
+            </sp>
+            <sp>
+               <speaker>Shooe,</speaker>
+               <p>No, faith I mean to go another way.</p>
+            </sp>
+            <sp>
+               <speaker>Bo.</speaker>
+               <p>Nay, Mr. <hi>Sh.</hi> I will not be put off ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Sh.</speaker>
+               <p>Nay, then good Mr. <hi>Boot</hi> lead you the way, I'le follow at an inch.
+<stage>
+                     <hi>Exeunt Boot</hi> and <hi>Shoe.</hi>
+                  </stage>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Str.</speaker>
+               <p>I hope you are ſomwhat cooler, you are not a hot Spur ſtill.</p>
+            </sp>
+            <sp>
+               <speaker>Sp.</speaker>
+               <p>No, faith, my little wagg, 'twas but a flouriſh: but why went my fellow <hi>Pump</hi> away?</p>
+            </sp>
+            <sp>
+               <speaker>Str.</speaker>
+               <p>It ſeems he had been drinking ſomwhat ſtiffly, and your <hi>Pump</hi> could not hold his water.
+<stage>
+                     <hi>Enter</hi> Slipper, Jugg, <hi>and a Glaſs.</hi>
+                  </stage>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sp.</speaker>
+               <p>What? how now <hi>Slipper,</hi> never without a Jugg of Beer in thy hand?</p>
+            </sp>
+            <sp>
+               <speaker>Slip.</speaker>
+               <p>I, here you may ſee as in a glaſs the life that we Chamberlains lead.</p>
+            </sp>
+            <sp>
+               <speaker>Str.</speaker>
+               <p>Come, 'tis in a good hand, pray begin to ſombody.</p>
+            </sp>
+            <sp>
+               <speaker>Slip.</speaker>
+               <p>Sirrah, you may be ſure I'le not begin to you, for I was never beholding to <hi>Shooe-tye.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Str.</speaker>
+               <p>And that is that hath made you ſuch a looſe fellow.</p>
+            </sp>
+            <sp>
+               <speaker>Slip.</speaker>
+               <p>Go-to <hi>String,</hi> you are a very wag-halter; here's to thee <hi>Spur,</hi> thou art all ſteel to the back.</p>
+            </sp>
+            <sp>
+               <speaker>Sp.</speaker>
+               <p>Come, I'le never refuſe Chamberlain; but I am half out of love with thoſe Oſtlers, one of them yeſter-night gave me ſuch a rub.</p>
+            </sp>
+            <stage>(<hi>Slip.</hi> Drinks)</stage>
+            <sp>
+               <speaker>Str.</speaker>
+               <p>What, a whole one?</p>
+            </sp>
+            <sp>
+               <speaker>Spur.</speaker>
+               <p>What elſe but a whole one:</p>
+            </sp>
+            <sp>
+               <speaker>Slip.</speaker>
+               <p>was alwaies a dry Whorſon.</p>
+            </sp>
+            <sp>
+               <pb n="8" facs="tcp:63221:5"/>
+               <speaker>Str.</speaker>
+               <p>And I have alwaies marked this in him, when <hi>Slipper</hi> was ſober he was in his plain faſhion, but when he is typſie he is alwaies in his turn-overs.</p>
+            </sp>
+            <sp>
+               <speaker>Slip.</speaker>
+               <p>Well <hi>Shooe-tye</hi> if you uſe theſe tricks, you may chance come to be knit up: But I pray you, Sir, take off your liquor.</p>
+            </sp>
+            <sp>
+               <speaker>Sp.</speaker>
+               <p>Here <hi>Shooe-tye</hi> (he drinks) Troth I wonder at theſe Tapſters how they bear ſo much drink, ſuch another glaſs as this would make <hi>Spur</hi>'s head turn round.</p>
+            </sp>
+            <stage>
+               <hi>Enter</hi> Pump.</stage>
+            <sp>
+               <speaker>Pump.</speaker>
+               <p>I thought where I ſhould finde you, you muſt ſtand neſting here, while poor <hi>Pump</hi> muſt dance attendance; come away quickly, or my Maſter ſwears he'l have you all ſet in the Shoomakers ſtocks.</p>
+            </sp>
+            <sp>
+               <speaker>Str.</speaker>
+               <p>Faith, for my Maſter <hi>Shooe,</hi> I have him in a ſtring.</p>
+            </sp>
+            <sp>
+               <speaker>Sp.</speaker>
+               <p>For Mr. <hi>Boot</hi> I have ſerved him on and off a good while.</p>
+            </sp>
+            <sp>
+               <speaker>Str.</speaker>
+               <p>Faith, <hi>Pump</hi> thou ſtands as though thou hadſt neither life nor ſoul: will you drink?</p>
+            </sp>
+            <sp>
+               <speaker>Pump.</speaker>
+               <p>No, by no means, I had as liffe pour it into my ſhooes.</p>
+            </sp>
+            <sp>
+               <speaker>Sp.</speaker>
+               <p>I hope <hi>Pump</hi> you may be drawn by little and little.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Nay, if you be thereabout, I muſt take me to my heels.
+<stage>Exit.</stage>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sp.</speaker>
+               <p>Though I care not for my Maſter, yet I love my Supper, therefore let's in, and after Supper wee? I have a Catch in the Chimney-corner.</p>
+            </sp>
+            <sp>
+               <speaker>Str.</speaker>
+               <p>Content.
+<stage>Exit.</stage>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Slip.</speaker>
+               <p>Pray you, Sir, while you ſing the Song let me bear the burden: I, take the Cloak-bag.</p>
+            </sp>
+            <sp>
+               <speaker>Sp.</speaker>
+               <p>Thank you heartily, 'tis for mine own caſe: I hope you have never <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Cloak for your Knavery, for if you have, you have given me the bag very ſweetly.
+<stage>Exeunt.</stage>
+               </p>
+            </sp>
+         </div>
+         <div type="epilogue">
+            <head>
+               <hi>EPILOG<g ref="char:V">Ʋ</g>E;</hi> Spoken by <hi>Shoomaker.</hi>
+            </head>
+            <l>IF Bungler-like my Work be brought to end,</l>
+            <l>I'le be a <hi>Cobler,</hi> who ye know may mend.</l>
+            <l>Next time I hope my Work ſhall be more meet,</l>
+            <l>Now I have learnt the length of all your feet:</l>
+            <l>But if in Workmanſhip I do excell,</l>
+            <l>I know your bounty, ye will pay me well.</l>
+            <l>Or elſe I'le truſt, and book't at your Commands,</l>
+            <l>So that ye will ſubſcribe it with your Hands.</l>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:63221:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
